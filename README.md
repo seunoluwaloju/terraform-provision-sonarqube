@@ -1,4 +1,4 @@
-### Deploying SonarQube on Amazon AWS with Terraform (Using Only HashiCorp Modules)
+### Deploying SonarQube on Amazon AWS with Terraform
 This project sets up a SonarQube instance on Amazon AWS, utilizing Terraform to provision necessary resources. 
 The SonarQube instance is set to be publicly available, accessible via the internet and it is  also be configured 
 to connect to an RDS instance running PostgreSQL. The PostgreSQL database is not visible outside of the VPC. 
